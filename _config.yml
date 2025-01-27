@@ -17,7 +17,7 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
+title:            'Julia Keleher'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://sdbcolorado.github.io'
 baseurl:          '/heygirl'
